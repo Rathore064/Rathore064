@@ -10,8 +10,6 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 import pswrdchecker
-import os
-import sys
 
 
 class Ui_MainWindow(object):
